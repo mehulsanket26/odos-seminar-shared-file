@@ -36,7 +36,6 @@ Welcome! This document is a shared space where each group records how they will 
 
 ### About our data
 **Cultural Heritage Dataset** – 100 digitised photographs of early 20th-century protest posters held by a local museum.
-
 _Additional details (file formats, image resolution, approximate size, metadata available from the museum):_ ...
 
 ### Making our data FAIR
